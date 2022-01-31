@@ -3,7 +3,7 @@ h1 {
      text-align: center;
     }
 h2 {
-    font-size:30px;
+    font-size:32px;
     }
 img {
     width:360px;
@@ -12,3 +12,6 @@ body {
     background-color: #E4DAD2;
     font-family:Georgia;
     }
+p {
+    font-size:16px;
+}
