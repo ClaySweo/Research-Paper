@@ -1,17 +1,40 @@
 h1 {
      font-size:70px;
      text-align: center;
+     font-family:Georgia;
     }
 h2 {
     font-size:32px;
-    }
-img {
-    width:360px;
-    }
-body {
-    background-color:#A9B3A9;
+    text-align: center;
     font-family:Georgia;
     }
+img {
+    width:365px;
+    }
+body {
+    background-color:#D7D7D7;
+    font-family:Trebuchet;
+    }
 p {
-    font-size:16px;
+    font-size:20px;
+}
+.green {
+    background-color:#008000;
+    color:white;
+}
+.green2 {
+    background-color:#006E00;
+    color:white;
+}
+.green3 {
+    background-color:#006400;
+    color:white;
+}
+.green4 {
+    background-color:#005A00;
+    color:white;
+}
+.green5 {
+    background-color:#005000;
+    color:white;
 }
