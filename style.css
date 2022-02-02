@@ -38,3 +38,8 @@ p {
     background-color:#005000;
     color:white;
 }
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
