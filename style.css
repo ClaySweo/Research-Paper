@@ -57,5 +57,6 @@ p {
     margin-right:auto;
     border-style:double;
     text-align: center;
-    border-color:black:
+    border-color:black;
+    height: 60px;
 }
